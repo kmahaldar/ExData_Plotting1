@@ -1,3 +1,8 @@
+
+# Exploratory Data Analysis - Project 1
+
+This repository is created for the first project of the course. The rest of this document is as given in coursera site.
+
 ## Introduction
 
 This assignment uses data from
